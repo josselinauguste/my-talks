@@ -37,3 +37,5 @@ Les entreprises et institutions, premières consommatrices de logiciels libres, 
 - [Le retour des communs ; la crise de l'idéologie propriétaire - Benjamin Coriat](http://www.editionslesliensquiliberent.fr/livre-Le_retour_des_communs-9791020902726-1-1-0-1.html)
 - [Peer Production Licence : une licence conçue pour les biens communs ?](https://scinfolex.com/2012/11/10/peer-production-licence-une-licence-concue-pour-les-biens-communs/)
 - [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License)
+- [DISIC - Modalités d'ouverture des codes sources](https://github.com/DISIC/politique-de-contribution-open-source)
+- [Parcoursup](https://framagit.org/parcoursup)
